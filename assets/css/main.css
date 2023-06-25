@@ -4687,3 +4687,25 @@ input, select, textarea {
 		}
 
 	}
+
+
+
+#space {
+	height: 5rem;
+}
+
+	@media screen and (max-width: 736px) {
+
+		#space {
+			height: 4rem;
+		}
+
+	}
+
+	@media screen and (max-width: 480px) {
+
+		#space {
+			height: 3rem;
+		}
+
+	}
